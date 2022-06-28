@@ -28,6 +28,8 @@ I'm migrating to the development area to work with Python and Djando:man_technol
 
 ![Snake animation](https://github.com/JotaFilho/JotaFilho/blob/output/github-contribution-grid-snake.svg)
 
+## Language Graphics
+
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JotaFilho&show_icons=true&theme=dark)  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JotaFilho&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
